@@ -1,2 +1,2 @@
 # Robocar
-A Robot that follows a line
+A robot that follows a line
